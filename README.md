@@ -1,6 +1,6 @@
 # Gallery-Photo
 
-This is the Gallery Photo style that is also similar to the Instagram photo grid arrangement.
+This is the Gallery Photo grid style that is also similar to the Instagram photo grid arrangement. This Gallery Photo grid use HTML and CSS only.
 
 ## Installation
 
